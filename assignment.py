@@ -10,3 +10,4 @@ num*=5
 print(num)
 num/=6
 print(num)  
+print(num)
